@@ -1,5 +1,14 @@
 # This repo is a part of course cs201 project
 
+# project mamber
+       --bablu   2019csb1079
+       --mdahav  2019csb1098
+       --nemaram 2019csb1109 
+       
+# TA
+       --Sravanthi-Chede
+
+
 # To setup project in your pc clone the repo 
 
        --using git clone
