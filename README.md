@@ -1,9 +1,9 @@
-# This repo is a part of course cs201 project
+# This repo is a part of course cs201-Data Structure and Algorithm project
 
 # project mamber
        --bablu   2019csb1079
        --mdahav  2019csb1098
-       --nemaram 2019csb1109 
+       --Nema Ram Meghwal 2019csb1101 
        
 # TA
        --Sravanthi-Chede
@@ -21,4 +21,6 @@
 # input and output
 
       --when we will run programm it will ask for size of chesboard in input.
-      -- after input program will return possible solution of knight moves.
+      -- after input program will return all possible solution  of knight moves.
+      
+ 
